@@ -7,5 +7,5 @@ Please take a look at the StringConcatMythTest.java file and check the class fil
 You would notice Java compiler internally using a String builder for concatenation and 
 when adding string in the same line like "hi" + "george" it would just create one string.
 
-![](./String to Stringbuilder.jpg)
+![](https://github.com/itsmurugappan/string-concat-myth/blob/master/Sting%20to%20String%20Builder.JPG)
 
