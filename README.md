@@ -6,5 +6,6 @@ or buffer.
 Please take a look at the StringConcatMythTest.java file and check the class file for the same 
 You would notice Java compiler internally using a String builder for concatenation and 
 when adding string in the same line like "hi" + "george" it would just create one string.
-Please check the String to Stringbuilder.jpg
+
+![](./String to Stringbuilder.jpg)
 
